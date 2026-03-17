@@ -1,223 +1,215 @@
 <div align="center">
 
-<!-- ANIMATED WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kubernetes%20%2B%20ELK%20Stack&fontSize=52&fontColor=fff&fontAlignY=40&desc=Production-Grade%20Monitoring%20on%20Ubuntu%2024.04&descAlignY=60&descColor=a5f3fc&animation=fadeIn&stroke=00d4ff&strokeWidth=1" width="100%"/>
-
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00D4FF&center=true&vCenter=true&width=800&lines=☸️+3-Node+Kubernetes+Cluster+%7C+v1.30.3;📊+Full+ELK+Stack+via+Helm+%7C+v8.5.1;📋+1%2C432%2B+log+entries+per+15+minutes;⚡+Filebeat+%2B+Metricbeat+DaemonSets;🔍+Real-Time+Kibana+Dashboards+%7C+Live!" alt="Typing SVG"/>
-
-<br/><br/>
-
-<!-- TECH STACK BADGES ROW 1 -->
-<img src="https://img.shields.io/badge/Kubernetes-v1.30.3-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elasticsearch-8.5.1-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kibana-8.5.1-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-24.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--            ANIMATED CAPSULE HEADER — TYPEWRITER            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,30:0f172a,60:1e3a5f,100:0ea5e9&height=280&section=header&text=Kubernetes%20%2B%20ELK%20Stack&fontSize=56&fontColor=ffffff&fontAlignY=45&desc=Production-Grade%20Monitoring%20%7C%20Ubuntu%2024.04%20LTS&descAlignY=65&descColor=7dd3fc&animation=fadeIn&stroke=0ea5e9&strokeWidth=2"/>
 
 <br/>
 
-<!-- TECH STACK BADGES ROW 2 -->
-<img src="https://img.shields.io/badge/Helm-3.x-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-<img src="https://img.shields.io/badge/containerd-Runtime-575757?style=for-the-badge&logo=containerd&logoColor=white"/>
-<img src="https://img.shields.io/badge/Calico-CNI_v3.25-F8821A?style=for-the-badge&logo=tigera&logoColor=white"/>
-<img src="https://img.shields.io/badge/Filebeat-Log_Shipper-00BFB3?style=for-the-badge&logo=elastic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metricbeat-Metrics-EE4B9D?style=for-the-badge&logo=elastic&logoColor=white"/>
+<!-- TYPING ANIMATION 1 — MAIN STATS -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=800&height=60&lines=☸️+3-Node+Kubernetes+Cluster+%7C+v1.30.3;📊+Full+ELK+Stack+Deployed+via+Helm;📋+1%2C432%2B+Log+Entries+Per+15+Minutes;⚡+Filebeat+%2B+Metricbeat+DaemonSets;🔍+Live+Kibana+Dashboards+%26+Alerts;🚀+From+Zero+to+Production+Observability!" alt="Typing SVG"/>
 
 <br/><br/>
 
-<!-- LIVE STATS BADGES -->
-<img src="https://img.shields.io/badge/Nodes-3_%28Ready%29-00C851?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pods-8_Running-00C851?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Log_Rate-1%2C432%2B_%2F_15min-blueviolet?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge"/>
+<!-- ANIMATED BADGE ROW 1 — CORE TECH -->
+<a href="#"><img src="https://img.shields.io/badge/Kubernetes-v1.30.3-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0f172a"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Elasticsearch-8.5.1-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=0f172a"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Kibana-8.5.1-005571?style=for-the-badge&logo=kibana&logoColor=white&labelColor=0f172a"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Ubuntu-24.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=0f172a"/></a>
+
+<br/>
+
+<!-- ANIMATED BADGE ROW 2 — TOOLS -->
+<a href="#"><img src="https://img.shields.io/badge/Helm-3.x-0F1689?style=for-the-badge&logo=helm&logoColor=white&labelColor=0f172a"/></a>
+<a href="#"><img src="https://img.shields.io/badge/containerd-Runtime-575757?style=for-the-badge&logo=containerd&logoColor=white&labelColor=0f172a"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Calico-CNI_v3.25-F8821A?style=for-the-badge&logoColor=white&labelColor=0f172a"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Filebeat-DaemonSet-00BFB3?style=for-the-badge&logo=elastic&logoColor=white&labelColor=0f172a"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Metricbeat-DaemonSet-EE4B9D?style=for-the-badge&logo=elastic&logoColor=white&labelColor=0f172a"/></a>
 
 <br/><br/>
 
-<!-- MEDIUM BUTTON -->
+<!-- LIVE STATUS ANIMATED BADGES -->
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Nodes&query=nodes&url=https%3A%2F%2Fraw.githubusercontent.com%2F&color=00C851&logo=kubernetes&logoColor=white&prefix=&suffix=+Ready&fallbackLabel=3+Ready"/>
+<img src="https://img.shields.io/badge/Pods-8%20Running-00C851?style=for-the-badge&logo=docker&logoColor=white&labelColor=0f172a&animate=true"/>
+<img src="https://img.shields.io/badge/Log_Rate-1%2C432%2B_%2F_15min-blueviolet?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0f172a"/>
+
+<br/><br/>
+
+<!-- PROFILE VIEWS ANIMATED COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=narengl2001&label=Repo+Views&color=0ea5e9&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/narengl2001/k8s-elk-monitoring?style=for-the-badge&logo=github&color=fbbf24&labelColor=0f172a&label=Stars"/>
+<img src="https://img.shields.io/github/forks/narengl2001/k8s-elk-monitoring?style=for-the-badge&logo=github&color=a78bfa&labelColor=0f172a&label=Forks"/>
+
+<br/><br/>
+
+<!-- MEDIUM BLOG BUTTON -->
 <a href="https://medium.com/@narengl2001/i-built-a-full-kubernetes-cluster-with-elk-stack-monitoring-on-ubuntu-24-04-heres-exactly-how-d6efb7eb894a">
-  <img src="https://img.shields.io/badge/📖_Read_Full_Blog_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+<img src="https://img.shields.io/badge/📖_Read_the_Full_Blog_Post_on_Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🎯 What This Builds
-
-</div>
-
-```
- ╔══════════╗    ╔══════════════╗    ╔══════════════╗    ╔══════════════╗
- ║  3 Node  ║ →  ║   Portfolio  ║ →  ║  ELK Stack   ║ →  ║  Real-Time   ║
- ║  K8s     ║    ║  App Live    ║    ║  via Helm    ║    ║  Dashboards  ║
- ║ Cluster  ║    ║  :30080      ║    ║  :30601      ║    ║  1432+ logs  ║
- ╚══════════╝    ╚══════════════╝    ╚══════════════╝    ╚══════════════╝
-```
-
-> **Most Kubernetes tutorials stop at "your pods are running."**
-> This goes further — giving you complete visibility into *what's happening inside* those pods.
-
----
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--          ANIMATED DIVIDER — MARQUEE SNAKE LINE             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-## 🏗️ Full Architecture
-
-</div>
-
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                       UBUNTU 24.04 LTS — 3 NODES                        │
-│                                                                          │
-│  ┌─────────────────┐   ┌──────────────────┐   ┌──────────────────────┐  │
-│  │   master-node   │   │    worker-1      │   │      worker-2        │  │
-│  │─────────────────│   │──────────────────│   │──────────────────────│  │
-│  │ • api-server    │   │ • portfolio:1    │   │ • portfolio:2        │  │
-│  │ • etcd          │   │ • filebeat       │   │ • portfolio:3        │  │
-│  │ • scheduler     │   │ • metricbeat     │   │ • filebeat           │  │
-│  │ • ctrl-manager  │   │                  │   │ • metricbeat         │  │
-│  └────────┬────────┘   └────────┬─────────┘   └──────────┬───────────┘  │
-│           │                     │                        │              │
-│           └─────────────────────┼────────────────────────┘              │
-│                        ┌────────▼────────┐                              │
-│                        │  CALICO  CNI    │                              │
-│                        │  pod network    │                              │
-│                        └────────┬────────┘                              │
-│                                 │                                        │
-│            ┌────────────────────▼───────────────────────┐               │
-│            │           namespace: logging                │               │
-│            │  ┌──────────────────┐  ┌────────────────┐  │               │
-│            │  │  Elasticsearch   │  │    Kibana      │  │               │
-│            │  │  StatefulSet     │◄─│  Deployment    │  │               │
-│            │  │  port: 9200      │  │  NodePort:     │  │               │
-│            │  │                  │  │  30601         │  │               │
-│            │  └────────┬─────────┘  └────────────────┘  │               │
-│            │           │                                  │               │
-│            │  filebeat-*   ← pod logs (all containers)   │               │
-│            │  metricbeat-* ← CPU · memory · network      │               │
-│            └──────────────────────────────────────────────┘               │
-└──────────────────────────────────────────────────────────────────────────┘
-
-     App → http://<WORKER_IP>:30080        KB → http://<WORKER_IP>:30601
-```
-
----
-
-<div align="center">
-
-## 🛠️ Tech Stack
-
-</div>
-
-<div align="center">
-
-<!-- SKILL ICONS - renders as beautiful icons grid -->
-<img src="https://skillicons.dev/icons?i=kubernetes,linux,docker,bash,nginx,githubactions&theme=dark&perline=6"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-| Layer | Technology | Version | Role |
-|:---:|:---:|:---:|:---|
-| 🔵 | **Kubernetes** | v1.30.3 | Container orchestration |
-| 🟠 | **Ubuntu** | 24.04 LTS | Host OS — all 3 nodes |
-| ⚫ | **containerd** | latest | Container runtime |
-| 🟡 | **Calico** | v3.25.0 | Pod networking (CNI) |
-| 🔷 | **Helm** | 3.x | Package manager for K8s |
-| 🟦 | **Elasticsearch** | 8.5.1 | Log + metric storage |
-| 🟣 | **Kibana** | 8.5.1 | Visualization & dashboards |
-| 🟢 | **Filebeat** | 8.5.1 | Log shipper (DaemonSet) |
-| 🔴 | **Metricbeat** | 8.5.1 | Metrics collector (DaemonSet) |
+## ⚡ What This Builds
+
+<!-- ANIMATED SKILL ICONS — RENDERS AS BEAUTIFUL ICON ROW -->
+<br/>
+<img src="https://skillicons.dev/icons?i=kubernetes,linux,docker,bash,nginx,vim&theme=dark&perline=6"/>
+<br/><br/>
+
+<!-- TYPING ANIMATION 2 — TAGLINE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=7DD3FC&center=true&vCenter=true&width=700&height=40&lines=Because+%22your+pods+are+running%22+is+never+enough+in+production...;Full+observability+%3D+logs+%2B+metrics+%2B+dashboards+%2B+sleep+at+night+%F0%9F%98%B4"/>
 
 </div>
 
+<br/>
+
+```
+ ╔══════════╗       ╔══════════════╗       ╔══════════════╗       ╔══════════════╗
+ ║          ║  -->  ║              ║  -->  ║              ║  -->  ║              ║
+ ║  3-Node  ║       ║  Portfolio   ║       ║  ELK Stack   ║       ║  Real-Time   ║
+ ║  K8s     ║       ║  App Live    ║       ║  via Helm    ║       ║  Dashboards  ║
+ ║ Cluster  ║       ║  :30080      ║       ║  :30601      ║       ║  1,432+ logs ║
+ ║          ║       ║              ║       ║              ║       ║              ║
+ ╚══════════╝       ╚══════════════╝       ╚══════════════╝       ╚══════════════╝
+```
+
 ---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   ARCHITECTURE DIAGRAM                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 📸 Live Dashboard Preview
+## 🏗️ Architecture
+
+<!-- ANIMATED TYPING FOR SECTION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=3000&color=34D399&center=true&vCenter=true&width=600&height=30&lines=Calico+CNI+%7C+containerd+%7C+kubeadm+%7C+Helm+%7C+Filebeat+%7C+Metricbeat"/>
 
 </div>
 
 ```
- ┌── kubectl get nodes ─────────────────────────────────────────────────┐
- │                                                                      │
- │  NAME          STATUS   ROLES           AGE   VERSION                │
- │  master-node   Ready    control-plane   10m   v1.30.3   ✅           │
- │  worker-1      Ready    <none>          5m    v1.30.3   ✅           │
- │  worker-2      Ready    <none>          5m    v1.30.3   ✅           │
- │                                                                      │
- └──────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                        UBUNTU 24.04 LTS — 3 NODES                           │
+│                                                                              │
+│  ┌──────────────────┐    ┌───────────────────┐    ┌───────────────────────┐  │
+│  │   master-node    │    │     worker-1      │    │       worker-2        │  │
+│  │ ────────────── │    │ ─────────────────│    │ ─────────────────────│  │
+│  │  api-server      │    │  portfolio (×1)   │    │  portfolio (×2, ×3)   │  │
+│  │  etcd            │    │  filebeat         │    │  filebeat             │  │
+│  │  scheduler       │    │  metricbeat       │    │  metricbeat           │  │
+│  │  ctrl-manager    │    │                   │    │                       │  │
+│  └────────┬─────────┘    └─────────┬─────────┘    └──────────┬────────────┘  │
+│           │                        │                         │               │
+└───────────┼────────────────────────┼─────────────────────────┼───────────────┘
+            └────────────────────────┼─────────────────────────┘
+                             ┌───────▼────────┐
+                             │  CALICO  CNI   │
+                             │  pod network   │
+                             └───────┬────────┘
+                                     │
+                    ┌────────────────▼──────────────────────┐
+                    │         namespace: logging             │
+                    │                                       │
+                    │  ┌─────────────────┐  ┌───────────┐  │
+                    │  │  Elasticsearch  │  │  Kibana   │  │
+                    │  │   :9200(int)    │◄─│  :30601   │  │
+                    │  └────────┬────────┘  └───────────┘  │
+                    │           │                           │
+                    │   filebeat-*   ← all container logs   │
+                    │   metricbeat-* ← CPU, memory, net     │
+                    └───────────────────────────────────────┘
 
- ┌── Kibana Discover — filebeat-* ──────────────────────────────────────┐
- │                                                                      │
- │  Time range: Last 15 minutes                Hits: 1,432  🔥          │
- │                                                                      │
- │  ▁▂▃▄▅▆▆▇██▇▇▆▅▄▃▄▅▆▆▇▇██▇▅▄▃▂▂▃▄▅▆▇██▇▆▅  histogram               │
- │                                                                      │
- │  kubernetes.labels.app: "portfolio"         Pods: all ✅             │
- └──────────────────────────────────────────────────────────────────────┘
-
- ┌── Custom Kibana Dashboard ───────────────────────────────────────────┐
- │                                                                      │
- │  📊 Request Count (Bar)       ⚡ Pod CPU Usage (Line)                │
- │  ┌──────────────────────┐     ┌───────────────────────────┐          │
- │  │  ▂ ▄ █ █ ▇ ▅ ▄ █ ▇  │     │  pod-1 ━━━━━━╮            │          │
- │  │                      │     │  pod-2 ╌╌╌╌╌╌┤ 2.4%       │          │
- │  └──────────────────────┘     └───────────────────────────┘          │
- │                                                                      │
- │  🧠 Memory Usage (Area)       📋 Log Volume (Metric)                 │
- │  ┌──────────────────────┐     ┌───────────────────────────┐          │
- │  │ ░░▒▒▓███▓▒▒░░▒▒▓███  │     │                           │          │
- │  │ Avg: 128 MB / pod    │     │        1,432              │          │
- │  └──────────────────────┘     │     logs / 15 min         │          │
- │                               └───────────────────────────┘          │
- └──────────────────────────────────────────────────────────────────────┘
+        App  ──►  http://<WORKER_IP>:30080
+        KB   ──►  http://<WORKER_IP>:30601
 ```
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               ANIMATED TECH STACK SECTION                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🛠️ Full Tech Stack
+
+<!-- MORE SKILL ICONS — SECOND ROW -->
+<img src="https://skillicons.dev/icons?i=elasticsearch,grafana,prometheus,git,github,vscode&theme=dark&perline=6"/>
+
+<br/><br/>
+
+<!-- ANIMATED PROGRESS-STYLE TABLE using image badges -->
+| Component | Technology | Version | Purpose |
+|:---:|:---:|:---:|:---|
+| ![K8s](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | **Kubernetes** | `v1.30.3` | Container orchestration |
+| ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) | **Ubuntu** | `24.04 LTS` | Host OS — all 3 nodes |
+| ![containerd](https://img.shields.io/badge/-containerd-575757?style=flat-square&logo=containerd&logoColor=white) | **containerd** | `latest` | Container runtime |
+| ![Calico](https://img.shields.io/badge/-Calico-F8821A?style=flat-square&logoColor=white) | **Calico** | `v3.25.0` | CNI — pod networking |
+| ![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white) | **Helm** | `3.x` | K8s package manager |
+| ![ES](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) | **Elasticsearch** | `8.5.1` | Log & metric storage |
+| ![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white) | **Kibana** | `8.5.1` | Dashboards & Discover |
+| ![Filebeat](https://img.shields.io/badge/-Filebeat-00BFB3?style=flat-square&logo=elastic&logoColor=white) | **Filebeat** | `8.5.1` | Log shipper (DaemonSet) |
+| ![Metricbeat](https://img.shields.io/badge/-Metricbeat-EE4B9D?style=flat-square&logo=elastic&logoColor=white) | **Metricbeat** | `8.5.1` | Metrics (DaemonSet) |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                PREREQUISITES TABLE                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## ⚡ Prerequisites
 
-</div>
-
-<div align="center">
-
-| 🖥️ Resource | 📋 Minimum | ✅ Recommended |
-|:---:|:---:|:---:|
-| Servers | 3× Ubuntu 24.04 LTS | 3× Ubuntu 24.04 LTS |
-| CPU | 2 cores / node | 4 cores / node |
-| RAM | 4 GB / node | 8 GB / node |
-| Disk | 20 GB on `/var` | 50 GB on `/var` |
-| Access | `sudo` on all nodes | `root` on all nodes |
+| 🖥️ | Resource | Minimum | Recommended |
+|:---:|:---:|:---:|:---:|
+| ![Server](https://img.shields.io/badge/-Server-0ea5e9?style=flat-square&logo=linux&logoColor=white) | Servers | 3× Ubuntu 24.04 | 3× Ubuntu 24.04 |
+| ![CPU](https://img.shields.io/badge/-CPU-f59e0b?style=flat-square&logo=intel&logoColor=white) | CPU | 2 cores / node | 4 cores / node |
+| ![RAM](https://img.shields.io/badge/-RAM-8b5cf6?style=flat-square&logo=memory&logoColor=white) | RAM | 4 GB / node | 8 GB / node |
+| ![Disk](https://img.shields.io/badge/-Disk-10b981?style=flat-square&logo=databricks&logoColor=white) | Disk | 20 GB on `/var` | 50 GB on `/var` |
+| ![Access](https://img.shields.io/badge/-Access-ef4444?style=flat-square&logo=gnubash&logoColor=white) | Access | `sudo` all nodes | `root` all nodes |
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                 PART 1 ANIMATED HEADER                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
-
-# 🚀 PART 1 — Kubernetes Cluster Setup
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=60&text=PART+1+%E2%80%94+Kubernetes+Cluster+Setup&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
----
+<br/>
 
 ### `STEP 01` — Prepare All Nodes
-> 🔁 **Run on every node** (master + both workers)
+> 🔁 ![All Nodes](https://img.shields.io/badge/Run_on-All_Nodes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ```bash
-# ─── Update system ─────────────────────────────────────────
+# Update system packages
 sudo apt update && sudo apt upgrade -y
 
-# ─── Disable swap (Kubernetes requires this) ───────────────
+# Disable swap — Kubernetes REQUIRES this
 sudo swapoff -a
 sudo sed -i '/ swap / s/^\(.*\)$/#\1/g' /etc/fstab
 ```
@@ -225,7 +217,7 @@ sudo sed -i '/ swap / s/^\(.*\)$/#\1/g' /etc/fstab
 ---
 
 ### `STEP 02` — Kernel Modules & Network Sysctl
-> 🔁 **Run on every node**
+> 🔁 ![All Nodes](https://img.shields.io/badge/Run_on-All_Nodes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ```bash
 sudo tee /etc/modules-load.d/containerd.conf <<EOF
@@ -233,8 +225,7 @@ overlay
 br_netfilter
 EOF
 
-sudo modprobe overlay
-sudo modprobe br_netfilter
+sudo modprobe overlay && sudo modprobe br_netfilter
 
 sudo tee /etc/sysctl.d/kubernetes.conf <<EOF
 net.bridge.bridge-nf-call-ip6tables = 1
@@ -251,7 +242,7 @@ sudo sysctl --system
 ---
 
 ### `STEP 03` — Install containerd
-> 🔁 **Run on every node**
+> 🔁 ![All Nodes](https://img.shields.io/badge/Run_on-All_Nodes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ```bash
 sudo apt install -y curl gnupg2 software-properties-common \
@@ -266,8 +257,8 @@ sudo add-apt-repository \
 sudo apt update && sudo apt install -y containerd.io
 
 # ╔══════════════════════════════════════════════════════════╗
-# ║  CRITICAL: enable systemd cgroup driver                 ║
-# ║  Skipping this = kubelet crash-loop on startup          ║
+# ║  CRITICAL — enable SystemdCgroup driver                 ║
+# ║  Without this: kubelet crash-loops on EVERY startup     ║
 # ╚══════════════════════════════════════════════════════════╝
 containerd config default | sudo tee /etc/containerd/config.toml >/dev/null 2>&1
 sudo sed -i 's/SystemdCgroup \= false/SystemdCgroup \= true/g' \
@@ -276,13 +267,12 @@ sudo sed -i 's/SystemdCgroup \= false/SystemdCgroup \= true/g' \
 sudo systemctl restart containerd && sudo systemctl enable containerd
 ```
 
-> ⚠️ **#1 Most Common Mistake** — Forgetting `SystemdCgroup = true`.
-> Always set this **before** running `kubeadm init`.
+> ⚠️ ![Warning](https://img.shields.io/badge/⚠️_Common_Mistake-SystemdCgroup_false-red?style=flat-square) — Always set `SystemdCgroup = true` **before** `kubeadm init`
 
 ---
 
 ### `STEP 04` — Install Kubernetes Components
-> 🔁 **Run on every node**
+> 🔁 ![All Nodes](https://img.shields.io/badge/Run_on-All_Nodes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ```bash
 sudo mkdir -p /etc/apt/keyrings
@@ -296,24 +286,23 @@ curl -fsSL https://pkgs.k8s.io/core:/stable:/v1.30/deb/Release.key | \
 
 sudo apt update
 sudo apt install -y kubelet kubeadm kubectl
-sudo apt-mark hold kubelet kubeadm kubectl  # 🔒 lock versions
+sudo apt-mark hold kubelet kubeadm kubectl    # 🔒 prevent upgrades
 ```
 
 ---
 
 ### `STEP 05` — Initialize Master Node
-> 🎯 **Master node only**
+> 🎯 ![Master Only](https://img.shields.io/badge/Run_on-Master_Only-7c3aed?style=flat-square&logo=kubernetes&logoColor=white)
 
 ```bash
 sudo kubeadm init
 
-# ── Configure kubectl ──────────────────────────────────────
 mkdir -p $HOME/.kube
 sudo cp -i /etc/kubernetes/admin.conf $HOME/.kube/config
 sudo chown $(id -u):$(id -g) $HOME/.kube/config
 ```
 
-> 📋 **SAVE THE JOIN COMMAND** from the output — needed for workers:
+> 📋 **Save the join command** printed at the end:
 > ```
 > kubeadm join <MASTER_IP>:6443 --token <TOKEN> \
 >   --discovery-token-ca-cert-hash sha256:<HASH>
@@ -322,7 +311,7 @@ sudo chown $(id -u):$(id -g) $HOME/.kube/config
 ---
 
 ### `STEP 06` — Join Worker Nodes
-> 🎯 **Each worker node**
+> 🎯 ![Workers](https://img.shields.io/badge/Run_on-Each_Worker-0ea5e9?style=flat-square&logo=kubernetes&logoColor=white)
 
 ```bash
 kubeadm join <MASTER_IP>:6443 --token <TOKEN> \
@@ -332,14 +321,13 @@ kubeadm join <MASTER_IP>:6443 --token <TOKEN> \
 ---
 
 ### `STEP 07` — Install Calico Networking
-> 🎯 **Master node**
+> 🎯 ![Master Only](https://img.shields.io/badge/Run_on-Master_Only-7c3aed?style=flat-square&logo=kubernetes&logoColor=white)
 
 ```bash
 kubectl apply -f \
   https://raw.githubusercontent.com/projectcalico/calico/v3.25.0/manifests/calico.yaml
 
-# ── Verify all nodes Ready (wait ~2 min) ──────────────────
-kubectl get nodes
+kubectl get nodes   # wait ~2 min
 ```
 
 ```
@@ -351,40 +339,31 @@ worker-2      Ready    <none>          v1.30.3   ✅
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                 PART 2 ANIMATED HEADER                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
-
-# 🚀 PART 2 — Deploy the Application
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=19&height=60&text=PART+2+%E2%80%94+Deploy+the+Application&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
----
+<br/>
 
 ### `STEP 08` — Build the Portfolio App
 
 ```html
-<!-- index.html -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>My Kubernetes Cluster</title>
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="UTF-8"><title>My Kubernetes Cluster</title>
   <style>
-    body {
-      font-family:'Segoe UI',sans-serif;
+    body { font-family:'Segoe UI',sans-serif;
       background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);
-      color:white;min-height:100vh;
-      display:flex;align-items:center;justify-content:center;text-align:center;
-    }
-    .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:20px;margin-top:40px}
-    .card{
-      background:rgba(255,255,255,0.12);backdrop-filter:blur(10px);
-      border-radius:20px;padding:30px;border:1px solid rgba(255,255,255,0.2)
-    }
-    .card h3{font-size:2.8em;color:#ffd700}
-  </style>
-</head>
-<body>
-  <div>
+      color:white;min-height:100vh;display:flex;
+      align-items:center;justify-content:center;text-align:center; }
+    .stats { display:grid;grid-template-columns:repeat(4,1fr);gap:20px;margin-top:40px; }
+    .card { background:rgba(255,255,255,.12);backdrop-filter:blur(10px);
+      border-radius:20px;padding:30px;border:1px solid rgba(255,255,255,.2); }
+    .card h3 { font-size:2.8em;color:#ffd700; }
+  </style></head><body><div>
     <h1>☸️ My Kubernetes Cluster</h1>
     <p>Production-Ready Container Orchestration Platform</p>
     <div class="stats">
@@ -392,10 +371,7 @@ worker-2      Ready    <none>          v1.30.3   ✅
       <div class="card"><h3>8</h3><p>Pods</p></div>
       <div class="card"><h3>4</h3><p>Deployments</p></div>
       <div class="card"><h3>3</h3><p>Services</p></div>
-    </div>
-  </div>
-</body>
-</html>
+    </div></div></body></html>
 ```
 
 ---
@@ -410,7 +386,7 @@ EXPOSE 80
 EOF
 
 docker build -t portfolio-site:latest .
-docker tag  portfolio-site:latest <yourusername>/portfolio-site:latest
+docker tag portfolio-site:latest <yourusername>/portfolio-site:latest
 docker login && docker push <yourusername>/portfolio-site:latest
 ```
 
@@ -451,18 +427,20 @@ spec:
 
 ```bash
 kubectl apply -f deploy.yaml
-# ✅ Live at → http://<WORKER_IP>:30080
+# ✅ → http://<WORKER_IP>:30080
 ```
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                 PART 3 ANIMATED HEADER                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
-
-# 🚀 PART 3 — ELK Stack via Helm
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=60&text=PART+3+%E2%80%94+ELK+Stack+via+Helm&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
----
+<br/>
 
 ### `STEP 11` — Install Helm
 
@@ -472,8 +450,8 @@ curl https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3 | bash
 
 ---
 
-### `STEP 12` — CRITICAL: vm.max_map_count
-> 🔁 **ALL nodes** — Elasticsearch refuses to start without this
+### `STEP 12` — ![Critical](https://img.shields.io/badge/🔴_CRITICAL-vm.max__map__count-red?style=flat-square) vm.max_map_count
+> 🔁 ![All Nodes](https://img.shields.io/badge/Run_on-ALL_Nodes-red?style=flat-square) — Elasticsearch **will not start** without this
 
 ```bash
 sudo sysctl -w vm.max_map_count=262144
@@ -521,10 +499,7 @@ kubectl rollout status statefulset/elasticsearch-master -n logging
 ```bash
 PASSWORD=$(kubectl get secret -n logging elasticsearch-master-credentials \
   -o jsonpath="{.data.password}" | base64 -d)
-
-echo "┌─────────────────────────────────────┐"
-echo "│  🔑  Password: $PASSWORD             "
-echo "└─────────────────────────────────────┘"
+echo "Password: $PASSWORD"   # Save this!
 ```
 
 ---
@@ -544,7 +519,7 @@ helm install kibana elastic/kibana \
 ### `STEP 17` — Install Filebeat
 
 ```yaml
-# filebeat-config.yaml  (replace $PASSWORD)
+# filebeat-config.yaml
 daemonset:
   enabled: true
 filebeatConfig:
@@ -574,7 +549,7 @@ helm install filebeat elastic/filebeat \
 ### `STEP 18` — Install Metricbeat
 
 ```yaml
-# metricbeat-config.yaml  (replace $PASSWORD)
+# metricbeat-config.yaml
 daemonset:
   enabled: true
 metricbeatConfig:
@@ -606,65 +581,54 @@ helm install metricbeat elastic/metricbeat \
 
 ---
 
-### `STEP 19` — Verify All Pods
+### `STEP 19` — Verify
 
 ```bash
 kubectl get pods -n logging
 ```
-
 ```
-NAME                             READY   STATUS    AGE
-elasticsearch-master-0           1/1     Running   5m   ✅
-kibana-kibana-5d9f7c8b7-xxxxx    1/1     Running   3m   ✅
-filebeat-filebeat-xxxxx          1/1     Running   2m   ✅
-metricbeat-metricbeat-xxxxx      1/1     Running   2m   ✅
+elasticsearch-master-0           1/1   Running   ✅
+kibana-kibana-5d9f7c8b7-xxxxx    1/1   Running   ✅
+filebeat-filebeat-xxxxx          1/1   Running   ✅
+metricbeat-metricbeat-xxxxx      1/1   Running   ✅
 ```
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                 PART 4 ANIMATED HEADER                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-# 🚀 PART 4 — Kibana Dashboards
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=60&text=PART+4+%E2%80%94+Kibana+Dashboards&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
----
+<br/>
 
 ### `STEP 20` — Access Kibana
 
 ```bash
 NODE_IP=$(kubectl get nodes -o jsonpath='{.items[1].status.addresses[0].address}')
-echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo "  🌐  http://$NODE_IP:30601"
-echo "  👤  elastic"
-echo "  🔑  $PASSWORD"
-echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "URL:  http://$NODE_IP:30601"
+echo "User: elastic  |  Pass: $PASSWORD"
 ```
 
----
-
 ### `STEP 21` — Index Patterns
-
-`Stack Management` → `Index Patterns` → `Create index pattern`
 
 | Pattern | Time Field |
 |:---:|:---:|
 | `filebeat-*` | `@timestamp` |
 | `metricbeat-*` | `@timestamp` |
 
----
-
-### `STEP 22` — Filter Your App Logs
+### `STEP 22` — Filter Logs
 
 ```
 kubernetes.labels.app : "portfolio"
 ```
 
----
-
 ### `STEP 23` — Dashboard Panels
 
-| Panel | Index | Type | Config |
+| Panel | Index | Chart | Config |
 |:---:|:---:|:---:|:---|
 | 📊 Request Count | `filebeat-*` | Bar | X=Date Histogram · Y=Count |
 | ⚡ Pod CPU | `metricbeat-*` | Line | Avg `kubernetes.pod.cpu.usage.node.pct` |
@@ -673,17 +637,21 @@ kubernetes.labels.app : "portfolio"
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    TROUBLESHOOTING                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# 🩺 Troubleshooting
+## 🩺 Troubleshooting
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2500&color=F87171&center=true&vCenter=true&width=600&height=30&lines=Click+any+issue+below+to+expand+the+fix+👇"/>
 
 </div>
 
 <details>
-<summary><b>🔴 &nbsp; kubelet crash-loops on startup</b></summary>
+<summary><b>🔴 &nbsp; kubelet crash-loops on startup</b> &nbsp; <img src="https://img.shields.io/badge/Fix-SystemdCgroup-red?style=flat-square"/></summary>
 <br>
-
-**Cause:** `SystemdCgroup = false` in containerd config.
 
 ```bash
 sudo sed -i 's/SystemdCgroup \= false/SystemdCgroup \= true/g' \
@@ -693,10 +661,8 @@ sudo systemctl restart containerd && sudo systemctl restart kubelet
 </details>
 
 <details>
-<summary><b>🟠 &nbsp; Elasticsearch pod stays Pending</b></summary>
+<summary><b>🟠 &nbsp; Elasticsearch pod stays Pending</b> &nbsp; <img src="https://img.shields.io/badge/Fix-vm.max__map__count-orange?style=flat-square"/></summary>
 <br>
-
-**Cause:** `vm.max_map_count` too low — run on **ALL nodes.**
 
 ```bash
 sudo sysctl -w vm.max_map_count=262144
@@ -706,10 +672,8 @@ kubectl delete pod elasticsearch-master-0 -n logging
 </details>
 
 <details>
-<summary><b>🟡 &nbsp; No logs appearing in Kibana</b></summary>
+<summary><b>🟡 &nbsp; No logs appearing in Kibana</b> &nbsp; <img src="https://img.shields.io/badge/Fix-Wrong_Password-yellow?style=flat-square"/></summary>
 <br>
-
-**Cause:** Wrong Elasticsearch password in Filebeat config.
 
 ```bash
 PASSWORD=$(kubectl get secret -n logging elasticsearch-master-credentials \
@@ -721,10 +685,8 @@ helm upgrade filebeat elastic/filebeat \
 </details>
 
 <details>
-<summary><b>🔵 &nbsp; Nodes stuck NotReady</b></summary>
+<summary><b>🔵 &nbsp; Nodes stuck NotReady</b> &nbsp; <img src="https://img.shields.io/badge/Fix-Calico_CNI-blue?style=flat-square"/></summary>
 <br>
-
-**Cause:** Calico CNI not applied.
 
 ```bash
 kubectl apply -f \
@@ -734,10 +696,8 @@ kubectl get pods -n kube-system | grep calico
 </details>
 
 <details>
-<summary><b>⚫ &nbsp; ErrImagePull on portfolio pods</b></summary>
+<summary><b>⚫ &nbsp; ErrImagePull on pods</b> &nbsp; <img src="https://img.shields.io/badge/Fix-Push_Image-black?style=flat-square"/></summary>
 <br>
-
-**Cause:** Image not pushed or wrong name.
 
 ```bash
 docker push <yourusername>/portfolio-site:latest
@@ -746,7 +706,7 @@ kubectl rollout restart deployment/portfolio-site
 </details>
 
 <details>
-<summary><b>⚪ &nbsp; kubeadm join token expired</b></summary>
+<summary><b>⚪ &nbsp; kubeadm join token expired</b> &nbsp; <img src="https://img.shields.io/badge/Fix-New_Token-lightgrey?style=flat-square"/></summary>
 <br>
 
 ```bash
@@ -756,44 +716,52 @@ kubeadm token create --print-join-command
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  FINAL VERIFIED STATE                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ## ✅ Verified Final State
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=3000&color=34D399&center=true&vCenter=true&width=600&height=35&lines=All+systems+operational+✅+Logs+flowing+✅+Dashboards+live+✅"/>
 
 </div>
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║                  CLUSTER — FULLY OPERATIONAL                    ║
+║                 CLUSTER — FULLY OPERATIONAL                     ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
-║  ☸️   Kubernetes    v1.30.3   ░░░░░░░░░░░░░░░░░░░  3 / 3 Ready  ║
-║  🐳  containerd    latest    ░░░░░░░░░░░░░░░░░░░  SystemdCgroup  ║
-║  🌐  Calico        v3.25.0   ░░░░░░░░░░░░░░░░░░░  All pods mesh  ║
-║  📦  Pods          running   ░░░░░░░░░░░░░░░░░░░  8 / 8  ✅      ║
-║  📋  Log rate      /15 min   ░░░░░░░░░░░░░░░░░░░  1,432+  🔥     ║
-║  📈  Metricbeat    interval  ░░░░░░░░░░░░░░░░░░░  10s scrape     ║
-║  📊  Kibana        live      ░░░░░░░░░░░░░░░░░░░  v8.5.1  ✅     ║
+║  ☸️   Kubernetes   v1.30.3  ████████████████████  3/3 Ready     ║
+║  🐳  containerd   latest   ████████████████████  Cgroup ✅      ║
+║  🌐  Calico       v3.25.0  ████████████████████  Pod mesh ✅    ║
+║  📦  Pods         running  ████████████████████  8/8 ✅         ║
+║  📋  Log rate     /15 min  ████████████████████  1,432+ 🔥      ║
+║  📈  Metricbeat   interval ████████████████████  10s scrape     ║
+║  📊  Kibana       live     ████████████████████  v8.5.1 ✅      ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      MORE ARTICLES                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ## 📚 More From This Series
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=A78BFA&center=true&vCenter=true&width=500&height=30&lines=More+DevOps+content+every+week+on+Medium+📖"/>
 
-<div align="center">
-
-| 🗓️ | Article | Highlights |
-|:---:|:---|:---|
-| Feb 2026 | [**K8s + ELK Stack on Ubuntu 24.04**](https://medium.com/@narengl2001) | This guide — 3-node cluster + full observability |
-| Mar 2026 | [**Pod Troubleshooting Field Guide**](https://medium.com/@narengl2001) | Every scheduling & runtime error with kubectl fixes |
-| Mar 2026 | [**50 Interview Questions + 24 Scenarios**](https://medium.com/@narengl2001) | Crack any Kubernetes interview |
-| Mar 2026 | [**WordPress 5-Server Infra**](https://medium.com/@narengl2001) | Nginx LB · ELK · Prometheus · Grafana |
+| 🗓️ | Article | Tags |
+|:---:|:---|:---:|
+| Feb 2026 | [**☸️ K8s + ELK Stack on Ubuntu 24.04**](https://medium.com/@narengl2001) — *this guide* | ![](https://img.shields.io/badge/-K8s-326CE5?style=flat-square) ![](https://img.shields.io/badge/-ELK-005571?style=flat-square) |
+| Mar 2026 | [**🔧 Pod Troubleshooting Field Guide**](https://medium.com/@narengl2001) — *every error + kubectl fix* | ![](https://img.shields.io/badge/-Debug-ef4444?style=flat-square) |
+| Mar 2026 | [**📋 50 Interview Questions + 24 Scenarios**](https://medium.com/@narengl2001) | ![](https://img.shields.io/badge/-Interview-fbbf24?style=flat-square) |
+| Mar 2026 | [**🚀 WordPress 5-Server Infra**](https://medium.com/@narengl2001) — *Nginx · ELK · Prometheus · Grafana* | ![](https://img.shields.io/badge/-Infra-10b981?style=flat-square) |
 
 </div>
 
@@ -803,37 +771,43 @@ kubeadm token create --print-join-command
 
 ## 🤝 Contributing
 
-Fork → Branch → Commit → PR
-
 ```bash
-git checkout -b feature/your-feature
-git commit -m "feat: add your feature"
-git push origin feature/your-feature
+git checkout -b feature/your-improvement
+git commit -m "feat: describe your change"
+git push origin feature/your-improvement
+# Then open a Pull Request ↗
 ```
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  ANIMATED FOOTER                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- ANIMATED FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=⭐+Star+this+if+it+helped+you!&fontSize=22&fontColor=a5f3fc&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=%E2%AD%90+Star+this+repo+if+it+helped+you!&fontSize=26&fontColor=7dd3fc&fontAlignY=65&animation=fadeIn&desc=It+helps+other+engineers+find+it+when+they+need+it+most&descAlignY=80&descColor=94a3b8" width="100%"/>
 
 <br/>
 
-**Built with ❤️ by [Naren](https://medium.com/@narengl2001)**
+<!-- ANIMATED TYPING — AUTHOR BIO -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=7DD3FC&center=true&vCenter=true&width=650&height=35&lines=Built+by+Naren+—+Cloud+%26+DevSecOps+Engineer;Building+infrastructure%2C+breaking+it%2C+fixing+it+—+then+writing+about+it+✍️"/>
 
-*Cloud & DevSecOps Engineer — Building infrastructure, breaking it, fixing it, then writing about it.*
-
-<br/>
+<br/><br/>
 
 [![Medium](https://img.shields.io/badge/Follow_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@narengl2001)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/More_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/More_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narengl2001)
 
 <br/>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=narengl2001.k8s-elk-monitoring)
+<!-- LIVE VISITOR COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=narengl2001-k8s-elk&label=👁️+Repo+Views&color=0ea5e9&style=for-the-badge"/>
+
+<br/><br/>
+
+*MIT License · © 2026 Naren*
 
 </div>
